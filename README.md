@@ -1,6 +1,6 @@
-#  description
-Glossier Online Female Beauty Product Shop
+# Glossier Online Female Beauty Product Shop 
 
+Description :
 
 This project aims to create a web application replicating the core functionality and user experience of the popular e-commerce website Glossier.com. The clone is built using HTML, CSS, JavaScript, and a mock JSON server to simulate the backend.
 
